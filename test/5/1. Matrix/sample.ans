@@ -1,0 +1,27 @@
+testcase 1
+[ 1 2 ; 3 4 ]
+[ 0 0 ]
+
+testcase 2
+[ 1 2 ; 3 4 ]
+
+testcase 3
+[ 0 0 ]
+[ 0 ]
+
+testcase 4
+2
+[ 1 2 ; 3 1 ]
+
+testcase 5
+[ 2 4 ; 6 8 ]
+[ 2 3 4 5 ; 3 4 5 6 ; 4 5 6 7 ; 5 6 7 8 ]
+
+testcase 6
+[ 7 10 ; 15 22 ]
+[ 30 ]
+
+testcase 7
+matrix size mismatch
+matrix size mismatch
+invalid matrix indexing
