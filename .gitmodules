@@ -2,13 +2,13 @@
         path = project/Bookstore
         url = git@github.com:Conless/Bookstore.git
 [submodule "project/ICPC-Management-System"]
-        path = project/Bookstore
+        path = project/ICPC-Management-System
         url = git@github.com:Conless/ICPC-Management-System.git
 [submodule "project/int2048"]
         path = project/int2048
         url = git@github.com:Conless/int2048.git
 [submodule "project/Python-Interpreter"]
-        path = project/Bookstore
+        path = project/Python-Interpreter
         url = git@github.com:Conless/Python-Interpreter.git
 [submodule "project/QOI-Format-Codec"]
         path = project/QOI-Format-Codec
